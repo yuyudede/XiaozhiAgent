@@ -1,4 +1,4 @@
-package com.yude.langchain4j;
+package com.yude.langchain4j.entity;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.yude.langchain4j;
+package com.yude.langchain4j.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
